@@ -1,0 +1,11 @@
+.home {
+    display: flex;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+
+
+  .link{
+    text-decoration: none;
+    color:white;
+}

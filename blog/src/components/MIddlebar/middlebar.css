@@ -1,0 +1,90 @@
+.middlebar{
+    color: white;
+    margin-left: 22.5%;
+}
+.middlebar_component{
+    display:flex;
+}
+
+
+.house{
+    width: 250px;
+    height:250px;
+    padding: 50px;
+}
+
+.heading{
+    align-items: center;
+    margin-left: 25%;
+}
+.heading_second{
+    margin-top:10%;
+    cursor: pointer;
+}
+
+.heading_second:hover{
+    height: 1.5em;
+    width: 1.5em;
+}
+
+.monument{
+    width:500px;
+    height:500px;
+}
+
+.monument_wrapper{
+    display: flex;
+}
+
+
+.monument_right{
+    margin-left: 12%;
+}
+.monument_img{
+    width: 320px;
+    height:220px;
+    margin-bottom: 50px;
+}
+
+.img_img{
+    width: 350px;
+    height: 350px;
+    
+}
+
+.card{
+    display: flex;
+}
+
+.card_item{
+    margin-right: 20%;
+}
+.bottom{
+    background:#a27a7a;
+    color: white;
+
+}
+.bottombar{
+    display: flex;
+    margin-left: 22.5%;
+}
+
+.category{
+    font-weight: bold;
+    padding: 5px;
+}
+
+.bottombar_left{
+    padding-right: 22%;
+}
+
+.bottombar_item{
+    padding: 5px;
+}
+
+.wel{
+    margin-left: 43%;
+}
+.bottombar_header{
+    margin-top: 5%;;
+}
